@@ -8,8 +8,8 @@
     │   └── Prism-CraftPresentation-Design.pptx.pdf 
     ├── notebooks
     │   ├── Predict_Future_Sales.ipynb
-    │   ├── Predict_Future_Sales_NeuralProphet copy.ipynb
-    │   └── Predict_Future_Sales_NeuralProphet.ipynb
+    │   ├── Predict_Future_Sales_NeuralProphetV2.ipynb
+    │   └── Predict_Future_Sales_NeuralProphetV1.ipynb
     └── system-design
         ├── 00_data-ingestion.excalidraw.png
         ├── 01_ml-design.excalidraw.png
